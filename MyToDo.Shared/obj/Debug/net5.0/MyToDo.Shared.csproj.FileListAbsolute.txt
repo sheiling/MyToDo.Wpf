@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Telerik\MyToDo.Shared\bin\Debug\net5.0\MyToDo.Shared.deps.json
+C:\Users\user\Desktop\Telerik\MyToDo.Shared\bin\Debug\net5.0\MyToDo.Shared.dll
+C:\Users\user\Desktop\Telerik\MyToDo.Shared\bin\Debug\net5.0\ref\MyToDo.Shared.dll
+C:\Users\user\Desktop\Telerik\MyToDo.Shared\bin\Debug\net5.0\MyToDo.Shared.pdb
+C:\Users\user\Desktop\Telerik\MyToDo.Shared\obj\Debug\net5.0\MyToDo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Telerik\MyToDo.Shared\obj\Debug\net5.0\MyToDo.Shared.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Telerik\MyToDo.Shared\obj\Debug\net5.0\MyToDo.Shared.AssemblyInfo.cs
+C:\Users\user\Desktop\Telerik\MyToDo.Shared\obj\Debug\net5.0\MyToDo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Telerik\MyToDo.Shared\obj\Debug\net5.0\MyToDo.Shared.dll
+C:\Users\user\Desktop\Telerik\MyToDo.Shared\obj\Debug\net5.0\ref\MyToDo.Shared.dll
+C:\Users\user\Desktop\Telerik\MyToDo.Shared\obj\Debug\net5.0\MyToDo.Shared.pdb
