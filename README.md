@@ -1,2 +1,2 @@
-# MyToDo.Wpf-
+# MyToDo.Wpf
 MyToDo application
